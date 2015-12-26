@@ -15,4 +15,4 @@ Note that when you are using the command from the command palette, your active w
 * Find a better way to open PDF files.
 
 ### More Information
-* [Github](https://github.com/thkim1011/vs-latex.git
+* [Github](https://github.com/thkim1011/vs-latex.git)
