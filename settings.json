@@ -1,0 +1,20 @@
+{
+	"paths": {
+		// This is the path that will be used if bin is not present in PATH
+		"latex": "C:\\Program Files (x86)\\MiKTeX 2.9\\miktex\\bin\\",
+		"viewer": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe"
+	},
+	"cmd": {
+		"pdftex": [
+			"pdflatex.exe", [
+			"-interaction=nonstopmode",
+			"-aux-directory=${dirPath}",
+			"-include-directory=${dirPath}",
+			"-output-directory=${dirPath}"
+			]
+		],
+		"viewer": [
+			""
+		]
+	}
+}
