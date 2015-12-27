@@ -1,6 +1,6 @@
 # VS LaTeX Extension - README
 ## Note
-I created this originally for my own use as a student so I could easily compile and view LaTeX file on VS Code. However, I learned node.js and typescript very briefly in order to make this, so use this at your own risk. If there is a lot of interest in this project, I may think about extending if further. Enjoy!
+I created this originally for my own use as a student so I could easily compile and view LaTeX file on VS Code. If there is a lot of interest in this project, I may think about extending it further. Enjoy!
 
 ## Usage
 There are two ways to compile to PDF:
